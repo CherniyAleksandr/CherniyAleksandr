@@ -24,4 +24,6 @@ About me:
 </div>
 <h3>Contact me: </h3>
 <li>📨<a href ="aleksandru.schwarz@gmail.com">aleksandru.schwarz@gmail.com</a></li>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=CherniyAleksandr&style=flat-square&color=blue" alt="counter"/>
+</div>
