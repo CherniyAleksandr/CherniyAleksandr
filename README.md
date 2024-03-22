@@ -4,7 +4,9 @@
 <h3>My name is Aleksandr, I'm 29 years old, based in Germany, and I'm a fresh frontend developer 💪</h3>
   <a href="https://www.instagram.com/cherniyAleksandr">
   <img src="https://img.shields.io/badge/instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram Badge"/>
-  <a/>
+  <a href="https://www.linkedin.com/in/aleksandr-cherniy/"> 
+  <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
   </div>
 About me:
 <li>I started learning programming in 2023.</li>
